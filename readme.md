@@ -1,0 +1,5 @@
+Five significant features of React; a) Jsx Extensions b) Virtual DOM c) One way Binding d) Debugging e)Extensions
+Five Advantages of React; a) Ensures faster rendering b) React simplifies the complete process of the scripting environment. c) It facilitates advanced maintenance and increases productivity. d) React can be used with other frameworks. e) Component and Data patterns improve readability which helps to maintain larger apps.
+The name of the  Software Engineer tha created React is Jordan walke and Facebook owns React.
+The Differences between HTML and JSX are; 1) In Html multiple elements can be returned but with Nested Jsx, only one element can be returned 2) Html has attributes while Jsx has props(properties) 3) You can use a class in Html for better identification and for better use in css, but class is a reserved in Jsx.
+Why can't Browsers read Jsx? Browsers can’t read JSX because there is no inherent implementation for the browser engines to read and understand them. JSX is not intended to be implemented by the engines or browsers, it is intended to be used by various transpilers to transform these JSX into valid JavaScript code.
